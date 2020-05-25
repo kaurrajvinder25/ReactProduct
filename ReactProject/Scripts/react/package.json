@@ -7,7 +7,7 @@
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "rajvi",
+  "author": "rajvinder",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.1.6",
